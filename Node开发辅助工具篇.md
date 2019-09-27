@@ -16,5 +16,12 @@ https://www.cnblogs.com/smallkure/p/8352723.html
 ## Node自动重启工具 nodemon
 https://www.jianshu.com/p/3b3b8bf9c4e9
 
-## Node生产进程管理pm2工具
+## Node生产进程管理pm2工具(功能最为强大)
 http://pm2.keymetrics.io/
+
+## Node自动重启工具 forever
+https://www.onmpw.com/tm/xwzj/opersys_168.html
+
+
+## Linux 守护进程的启动方法
+http://www.ruanyifeng.com/blog/2016/02/linux-daemon.html
