@@ -14,3 +14,6 @@ https://www.cnblogs.com/sorex/p/6200940.html
 
 ## ms(将各种时间格式转换为毫秒)
 https://www.npmjs.com/package/ms
+
+## debug
+https://www.npmjs.com/package/debug
