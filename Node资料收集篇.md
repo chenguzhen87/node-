@@ -11,3 +11,6 @@
 https://www.teakki.com/p/57dfa8833c20b02e90a0d606
 ## node环境变量
 https://www.cnblogs.com/sorex/p/6200940.html
+
+## ms(将各种时间格式转换为毫秒)
+https://www.npmjs.com/package/ms
