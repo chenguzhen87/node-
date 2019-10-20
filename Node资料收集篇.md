@@ -9,3 +9,5 @@
 
 ## 某网友node学习笔记
 https://www.teakki.com/p/57dfa8833c20b02e90a0d606
+## node环境变量
+https://www.cnblogs.com/sorex/p/6200940.html
