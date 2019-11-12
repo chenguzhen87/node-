@@ -1,2 +1,4 @@
 ## 文件操作相关工具库
 https://github.com/jprichardson/node-fs-extra
+## execa是可以调用shell和本地外部程序的javascript封装。会启动子进程执行。支持多操作系统，包括windows。如果父进程退出，则生成的全部子进程都被杀死。
+https://www.npmjs.com/package/execa
